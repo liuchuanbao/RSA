@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="grpc-stub-1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.0.2/a1987f77e728805702397b15f6a304e0869c9073/grpc-stub-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.0.2/6135115e7fb0bdfc983d14e20dcd66b2c0a28ef7/grpc-stub-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
